@@ -5,12 +5,12 @@
   <body>
     <form action="search.php" method="post">
       pombnew
-      <a href="index.php">home</a>
+      <a href="/">home</a>
       <a href="apps.php">apps</a>
       <a href="proxy.php">proxy</a>
       <a href="chat.php">chat</a>
       <a href="more.php">more</a>
-      <input name="search" type="search" placeholder="Search..."> 
+      <input name="search" type="search" placeholder="Search...">    
     </form>
     <hr>
     <ul>
@@ -24,3 +24,5 @@
   <li><a href="https://goodsciencehelp.com/">Degeneracy</a></li>
   <li><a href="https://generalmathematics.net/">General Math</a></li>
 </ul>
+  </body>
+</html>

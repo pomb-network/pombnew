@@ -117,7 +117,7 @@ function proxy() {
 
 
 function nothin() {
-  echo "<meta http-equiv='refresh' content='1; url=/'><h1>TYPE SOMETHING THIS TIME</h1>";
+  echo "<meta http-equiv='refresh' content='1; url=/'><h1>not found</h1>";
 };
 ?>
   </body>
